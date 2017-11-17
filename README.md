@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 17, 2017
 
 ### Student Name:  
-(First and Last Name)
+Jonathan Rodberg
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment we made an app that displays a recipe when the header is clicked.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jrr15f.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1. We used jQuery in this assignment to help make coding a little easier.
+2. This app is interactive in that it requires a click to show the ingredients 
+and the directions. We used the display function to do this.
+3. We used the jQuery fadeIn animation to display the instructions.
